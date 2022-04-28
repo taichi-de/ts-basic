@@ -26,6 +26,9 @@
 // arraySample()
 // tupleSample()
 
-import genericsBasicSample from "./generics/basic";
+// import genericsBasicSample from "./generics/basic";
 
-genericsBasicSample()
+// genericsBasicSample()
+
+import callbackSample from "./asynchronous/callback";
+callbackSample()
